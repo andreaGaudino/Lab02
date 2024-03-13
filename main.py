@@ -35,6 +35,7 @@ while(True):
         for i in t.handleWildCard(txtIn, dizio):
             print(i, end=" ")
         print()
+
         pass
     elif int(txtIn) == 4:
         break
